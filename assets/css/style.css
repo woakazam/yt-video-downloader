@@ -1,0 +1,18 @@
+*{
+	outline: none !important;
+	box-shadow: none !important;
+	border-radius: 0 !important;
+}
+
+.navbar{
+    border: 0;
+    background: #563D7C !important;
+}
+
+.navbar ul li .nav-link{
+	color: #FFF !important;
+}
+
+.table tbody tr td .nav-link{
+	padding: 0 !important;
+}
